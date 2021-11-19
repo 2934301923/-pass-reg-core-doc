@@ -1,1 +1,0 @@
-# pass-reg-core-doc
